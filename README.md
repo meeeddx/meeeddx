@@ -6,13 +6,13 @@
 ## 🧰 Technologies and Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=discord,vscode,nodejs,html,css,js,ts,mongodb,express,react,github" alt="Technologies and Tools" />
+  <img src="https://skillicons.dev/icons?i=discord,vscode,nodejs,html,css,js,ts,mongodb,express,react,github,csharp,cpp" alt="Technologies and Tools" />
 </div>
 
 ---
 
 <p align="left">
-  <a href="https://discord.com/users/1178118182620377118" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1178118182620377118" alt="Discord Presence" />
+  <a href="https://discord.com/users/866712993475461150" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/866712993475461150" alt="Discord Presence" />
   </a>
 </p>
