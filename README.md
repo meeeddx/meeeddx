@@ -11,6 +11,10 @@
 
 ---
 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mehdiab07/&title=Profile%20Views)
+
+---
+
 <p align="left">
   <a href="https://discord.com/users/866712993475461150" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/866712993475461150" alt="Discord Presence" />
