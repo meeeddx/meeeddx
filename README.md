@@ -6,7 +6,7 @@
 ## 🧰 Technologies and Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=discord,vscode,nodejs,html,css,js,ts,react,c,cs,cpp" alt="Technologies and Tools" />
+  <img src="https://skillicons.dev/icons?i=discord,vscode,sublime,vim,neovim,nodejs,html,css,js,ts,react,go,vite,tailwind,mongodb,mysql,rust," alt="Technologies and Tools" />
 </div>
 
 ---
