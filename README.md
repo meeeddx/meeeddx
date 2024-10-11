@@ -5,9 +5,7 @@
 
 ## 🧰 Technologies and Tools
 
-<div>
-  <img src="https://skillicons.dev/icons?i=discord,vscode,sublime,vim,neovim,nodejs,html,css,js,ts,react,go,vite,tailwind,mongodb,mysql,rust," alt="Technologies and Tools" />
-</div>
+  ![Discord Widget](https://discord.c99.nl/widget/theme-4/1178118182620377118)
 
 ---
 
