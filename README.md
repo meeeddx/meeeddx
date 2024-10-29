@@ -27,5 +27,5 @@ I'm Mehdi Head, a self-taught Developer specializing in JavaScript and web techn
 
 ## 🌐 My Portfolio
 
-Check out my full portfolio at [mehdiferry.xyz](https://itshead.xyz), where you can learn more about my work, projects, and experience.
+Check out my full portfolio at [itshead.xyz](https://itshead.xyz), where you can learn more about my work, projects, and experience.
 
