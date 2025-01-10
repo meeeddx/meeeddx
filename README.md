@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I'm Mehdi Head, a self-taught Developer specializing in JavaScript and web technologies.
+I'm ryvorney, a self-taught Developer specializing in JavaScript and web technologies.
 
 ## 🚀 Skilled In
 
