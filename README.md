@@ -24,7 +24,3 @@ I'm ryvorney, a self-taught Developer specializing in JavaScript and web technol
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 🌐 My Portfolio
-
-Check out my full portfolio at [itshead.xyz](https://itshead.xyz), where you can learn more about my work, projects, and experience.
-
