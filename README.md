@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h5 align="left">I'm ryvorney, a self-taught Developer specializing in JavaScript and web technologies.</h5>
+<h5 align="left">I'm feitan, a self-taught Developer specializing in JavaScript and web technologies.</h5>
 
 ###
 
